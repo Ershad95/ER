@@ -1,0 +1,21 @@
+ussing System.IO
+
+
+
+namespace test
+{
+
+Class test
+{
+   public static void Main()
+   {
+          
+          System.Write("ok");
+    
+   }
+   
+
+}
+
+
+}
